@@ -1,0 +1,193 @@
+class: csc427-222
+project: proj4
+student: djb4147 
+date:
+
+grade: 6/6
+
+(#):	3/3
+(%):	3/3
+lateness:	(0)/(_)
+
+(#)
+- basic test: 1 point for each of B, C and Supplementary Check
+  B:1 C:1 S:1
+  
+(%)
+- extended test: 1 point for B
+  2 points C completely correct, 1 point for up to 2 wrong.
+  B:1 C:2
+  
+
+commit:
+r318 | djb4147 | 2022-02-28 23:33:16 -0500 (Mon, 28 Feb 2022) | 1 line
+
+
+comments:
+*** testing Sipser N1
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Sipser N2
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Sipser N3
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Sipser N4
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.7 (b)
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.7 (c)
+	3 correctly accepted out of 3 strings
+	2 correctly rejected out of 2 strings
+*** PASSES
+
+*** testing Ex 1.7 (e)
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.20 (b)
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.17 (a)
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.19 (a)
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.19 (b)
+	3 correctly accepted out of 3 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.19 (c)
+	1 correctly accepted out of 1 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+
+***
+*** BASIC TESTS
+***
+
+*** testing Sipser N1
+	7 correctly accepted out of 7 strings
+	6 correctly rejected out of 6 strings
+*** PASSES
+
+*** testing Sipser N2
+	5 correctly accepted out of 5 strings
+	5 correctly rejected out of 5 strings
+*** PASSES
+
+*** testing Sipser N3
+	5 correctly accepted out of 5 strings
+	4 correctly rejected out of 4 strings
+*** PASSES
+
+*** testing Sipser N4
+	4 correctly accepted out of 4 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** Exercise B
+*** 4 out of 4 correct
+*** PASSED
+
+*** testing Ex 1.7 (b)
+	4 correctly accepted out of 4 strings
+	5 correctly rejected out of 5 strings
+*** PASSES
+
+*** testing Ex 1.7 (c)
+	7 correctly accepted out of 7 strings
+	2 correctly rejected out of 2 strings
+*** PASSES
+
+*** testing Ex 1.7 (e)
+	4 correctly accepted out of 4 strings
+	5 correctly rejected out of 5 strings
+*** PASSES
+
+*** testing Ex 1.20 (b)
+	3 correctly accepted out of 3 strings
+	4 correctly rejected out of 4 strings
+*** PASSES
+
+*** testing Ex 1.17 (a)
+	8 correctly accepted out of 8 strings
+	10 correctly rejected out of 10 strings
+*** PASSES
+
+*** testing Ex 1.19 (a)
+	5 correctly accepted out of 5 strings
+	4 correctly rejected out of 4 strings
+*** PASSES
+
+*** testing Ex 1.19 (b)
+	6 correctly accepted out of 6 strings
+	3 correctly rejected out of 3 strings
+*** PASSES
+
+*** testing Ex 1.19 (c)
+	1 correctly accepted out of 1 strings
+	4 correctly rejected out of 4 strings
+*** PASSES
+
+*** Exercise C
+*** 8 out of 8 correct
+*** PASSED
+
+
+Supplementary check
+*** ex 1.7(b) need: 5, have 5
+*** ex 1.7(c) need: 6, have 6
+*** ex 1.7(e) need: 3, have 3
+*** PASSES
+
+***
+*** EXTENDED TESTS
+***
+
+* correct Sipser N1
+* correct Sipser N2
+* correct Sipser N3
+* correct Sipser N4
+
+*** Exercise B: 4 out of 4 correct
+
+* correct Ex 1.7 (b)
+* correct Ex 1.7 (c)
+* correct Ex 1.7 (e)
+* correct Ex 1.20 (b)
+* correct Ex 1.17 (a)
+* correct Ex 1.19 (a)
+* correct Ex 1.19 (b)
+* correct Ex 1.19 (c)
+
+*** Exercise C: 8 out of 8 correct
+
+
+***
+*** TESTS COMPLETED
+***
+
